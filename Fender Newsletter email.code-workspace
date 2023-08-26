@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5502,
+		"emmet.preferences": {
+		
+		},
+		"emmet.syntaxProfiles": {
+		
+		}
+	}
+}
